@@ -1,0 +1,17 @@
+{
+  "coins": [
+    { "id": "aurora-near",  "threshold": 1.0 },
+    { "id": "vechain",      "threshold": 0.2 },
+    { "id": "cardano",      "threshold": 2.0 },
+    { "id": "sophiaverse",  "threshold": 0.1 },
+    { "id": "bitcoin",      "threshold": 115000.0 },
+    { "id": "ethereum",     "threshold": 6000.0 },
+    { "id": "telcoin",      "threshold": 0.05 },
+    { "id": "starlink",     "threshold": 0.000004 },
+    { "id": "pikamoon",     "threshold": 0.0009 },
+    { "id": "singularitydao", "threshold": 1.0 }
+  ],
+  "intervalSeconds": 20,
+  "priceMoveWindowMinutes": 1,
+  "priceMovePercentage": 10
+}
